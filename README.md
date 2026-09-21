@@ -1,44 +1,18 @@
-# Hi, I'm Ahmed Yasser 👋
+# 💫 About Me:
+I am currently working on: Backend development projects with JavaScript<br><br>I am looking to collaborate on: Backend and open-source projects<br><br>I am looking for help with: Backend development and software architecture<br><br>I am currently learning: JavaScript, Node.js, SQL, and NestJS<br><br>Ask me about: JavaScript, Git, GitHub, and backend development<br><br>Fun fact: I love building things and learning how they work 🚀
 
-### Software Engineering Student | Aspiring Backend Developer
 
-I'm a Software Engineering student at **Mansoura University** with a growing interest in **Backend Development** and building practical software solutions.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedyasser.911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedyasser-swe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahm169206@gmail.com) 
 
-I'm currently focusing on strengthening my skills in **JavaScript, Node.js, REST APIs, Databases, and Git/GitHub**, while working on projects that help me turn what I learn into real applications.
-
-## 🚀 What I'm Learning
-
-* JavaScript
-* Node.js & Backend Development
-* REST APIs
-* SQL & Databases
-* Git & GitHub
-* Software Engineering Principles
-
-## 🛠️ Technologies
-
-**Languages:**
-JavaScript, HTML, CSS, SQL
-
-**Tools & Technologies:**
-Git, GitHub, VS Code, React, Vite, Node.js
-
-## 📌 Featured Project
-
-### Gym Tracker Pro
-
-A responsive workout tracking application built with **React + Vite**, featuring workout planning, progress tracking, statistics, LocalStorage, import/export, and PWA support.
-
-🔗 [View Project](https://github.com/ahm169206-bit/gym-tracker-pro)
-
-## 🎯 Current Focus
-
-I'm currently working on improving my programming fundamentals and moving deeper into **Backend Development**, with the goal of building full-stack applications in the future.
-
-## 📈 My Goal
-
-To become a strong **Software Engineer**, build real-world projects, and continuously improve my problem-solving and development skills.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ahmedyasser-swe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ahmedyasser-swe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedyasser-swe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=ahmedyasser-swe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Let's Build Something Great 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
