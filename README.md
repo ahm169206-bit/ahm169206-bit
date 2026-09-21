@@ -1,7 +1,17 @@
-# 💫 About Me:
-I am currently working on: Backend development projects with JavaScript<br><br>I am looking to collaborate on: Backend and open-source projects<br><br>I am looking for help with: Backend development and software architecture<br><br>I am currently learning: JavaScript, Node.js, SQL, and NestJS<br><br>Ask me about: JavaScript, Git, GitHub, and backend development<br><br>Fun fact: I love building things and learning how they work 🚀
+# 👋 Hi, I'm Ahmed Yasser
 
+### Software Engineering Student | Backend Developer
 
+I'm a Software Engineering student at Mansoura University, passionate about backend development and building real-world software projects.
+
+## 💫 About Me
+
+- 🔭 I am currently working on: Backend development projects with JavaScript
+- 🤝 I am looking to collaborate on: Backend and open-source projects
+- 🛠️ I am looking for help with: Backend development and software architecture
+- 🌱 I am currently learning: JavaScript, Node.js, SQL, and NestJS
+- 💬 Ask me about: JavaScript, Git, GitHub, and backend development
+- ⚡ Fun fact: I love building things and learning how they work 🚀
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedyasser.911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedyasser-swe) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahm169206@gmail.com) 
 
