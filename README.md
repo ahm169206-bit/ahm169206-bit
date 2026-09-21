@@ -1,42 +1,44 @@
 # Hi, I'm Ahmed Yasser 👋
 
-### Software Engineering Student | Backend Developer in Progress
+### Software Engineering Student | Aspiring Backend Developer
 
-I'm a Software Engineering student at the Faculty of Computers and Information, Mansoura University.
+I'm a Software Engineering student at **Mansoura University** with a growing interest in **Backend Development** and building practical software solutions.
 
-I'm currently focused on building my programming skills and developing practical projects, with a growing interest in Backend Development.
+I'm currently focusing on strengthening my skills in **JavaScript, Node.js, REST APIs, Databases, and Git/GitHub**, while working on projects that help me turn what I learn into real applications.
 
-## 🛠️ Technologies & Tools
+## 🚀 What I'm Learning
 
-- JavaScript
-- Node.js
-- HTML & CSS
-- Git & GitHub
-- SQL
+* JavaScript
+* Node.js & Backend Development
+* REST APIs
+* SQL & Databases
+* Git & GitHub
+* Software Engineering Principles
 
-## 🚀 Featured Project
+## 🛠️ Technologies
+
+**Languages:**
+JavaScript, HTML, CSS, SQL
+
+**Tools & Technologies:**
+Git, GitHub, VS Code, React, Vite, Node.js
+
+## 📌 Featured Project
 
 ### Gym Tracker Pro
 
-A workout planning and tracking web application designed to help users organize their workouts and track their progress.
+A responsive workout tracking application built with **React + Vite**, featuring workout planning, progress tracking, statistics, LocalStorage, import/export, and PWA support.
 
-🔗 [View Project](https://github.com/ahm169206-bit/Gym-Tracker-Pro)
+🔗 [View Project](https://github.com/ahm169206-bit/gym-tracker-pro)
 
-## 📚 Currently Learning
+## 🎯 Current Focus
 
-- Backend Development
-- Node.js
-- REST APIs
-- Databases
-- Software Engineering Practices
+I'm currently working on improving my programming fundamentals and moving deeper into **Backend Development**, with the goal of building full-stack applications in the future.
 
-## 🎯 Goals
+## 📈 My Goal
 
-- Build real-world software projects
-- Improve my backend development skills
-- Learn and apply software engineering best practices
-- Contribute to open-source projects
+To become a strong **Software Engineer**, build real-world projects, and continuously improve my problem-solving and development skills.
 
 ---
 
-⭐ Thanks for visiting my profile!
+### Let's Build Something Great 🚀
