@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Ahmed Yasser 👋
 
-<!--
-**ahm169206-bit/ahm169206-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Backend Developer in Progress
 
-Here are some ideas to get you started:
+I'm a Software Engineering student at the Faculty of Computers and Information, Mansoura University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on building my programming skills and developing practical projects, with a growing interest in Backend Development.
+
+## 🛠️ Technologies & Tools
+
+- JavaScript
+- Node.js
+- HTML & CSS
+- Git & GitHub
+- SQL
+
+## 🚀 Featured Project
+
+### Gym Tracker Pro
+
+A workout planning and tracking web application designed to help users organize their workouts and track their progress.
+
+🔗 [View Project](https://github.com/ahm169206-bit/Gym-Tracker-Pro)
+
+## 📚 Currently Learning
+
+- Backend Development
+- Node.js
+- REST APIs
+- Databases
+- Software Engineering Practices
+
+## 🎯 Goals
+
+- Build real-world software projects
+- Improve my backend development skills
+- Learn and apply software engineering best practices
+- Contribute to open-source projects
+
+---
+
+⭐ Thanks for visiting my profile!
