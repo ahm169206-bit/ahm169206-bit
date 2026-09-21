@@ -12,8 +12,6 @@ I'm a Software Engineering student at Mansoura University, passionate about back
 - 🌱 I am currently learning: JavaScript, Node.js, SQL, and NestJS
 - 💬 Ask me about: JavaScript, Git, GitHub, and backend development
 - ⚡ Fun fact: I love building things and learning how they work 🚀
-# 💫 About Me:
-I am currently working on: Backend development projects with JavaScript<br><br>I am looking to collaborate on: Backend and open-source projects<br><br>I am looking for help with: Backend development and software architecture<br><br>I am currently learning: JavaScript, Node.js, SQL, and NestJS<br><br>Ask me about: JavaScript, Git, GitHub, and backend development<br><br>Fun fact: I love building things and learning how they work 🚀
 
 
 ## 🌐 Socials:
